@@ -79,7 +79,7 @@ project/
     tables/
     predictions/
 
-  report/
+  documents/
     final_report.docx
     slides.pptx
 
