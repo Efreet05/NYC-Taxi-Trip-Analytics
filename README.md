@@ -142,7 +142,7 @@ analytics / forecasting scripts
 Yellow有上下车时间、位置、距离、费用、支付方式、乘客数这些字段；<br>
 lookup table 用来把 LocationID 映射到 zone 和 borough做空间分析（除了 lookup csv，如果想做地图热力图，官网也提供：Taxi Zone Shapefile）；<br><br>
 
-已下载 2024 年完整 12 个月的 Yellow Taxi。代码跑通后可以继续扩展到2009-2024年。<br>
+已下载2023-2024年24个月的 Yellow Taxi。代码跑通后可以继续扩展到2009-2024年。<br>
 2025 / 2026 数据没有加入，官方说明从 2025 起新增了 cbd_congestion_fee 列，会引入额外 schema 变化。<br>
 
 ## 脚本 load_raw_data.py 主要做的是:
