@@ -19,8 +19,9 @@ A scalable big data project for NYC taxi trip analytics and demand forecasting u
 4.引入spark stream实现dashboard动态刷新<br>
 5.引入Vector DB做“问答助手”<br>
 
-## 关于项目迭代操作的代价：https://docs.google.com/document/d/1EIMlaebw0aErON3z__H_27MCdqPioUx8vskZsa-7gv4/edit?usp=sharing
-
+## 关于项目迭代操作的代价：
+https://docs.google.com/document/d/1EIMlaebw0aErON3z__H_27MCdqPioUx8vskZsa-7gv4/edit?usp=sharing<br>
+https://docs.google.com/document/d/15kfSA4iyXP1suyadxqXFoSPGlRs9LA3UeAn0fNphR3k/edit?tab=t.0<br>
 
 # Reminder
 
