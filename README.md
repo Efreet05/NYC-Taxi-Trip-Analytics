@@ -73,10 +73,6 @@ project/
     visualization/
       build_dashboard.py
 
-  notebooks/
-    exploration.ipynb
-    final_demo.ipynb
-
   outputs/
     figures/
     tables/
